@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Random Clicker Game/1.0.0": {
+        "runtime": {
+          "Random Clicker Game.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Random Clicker Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

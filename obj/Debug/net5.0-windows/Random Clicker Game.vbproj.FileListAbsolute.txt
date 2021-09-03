@@ -1,0 +1,19 @@
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random_Clicker_Game.Form1.resources
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.vbproj.GenerateResource.cache
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.AssemblyInfoInputs.cache
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.AssemblyInfo.vb
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.vbproj.CoreCompileInputs.cache
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\Random Clicker Game.exe
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\Random Clicker Game.deps.json
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\Random Clicker Game.runtimeconfig.json
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\Random Clicker Game.runtimeconfig.dev.json
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\Random Clicker Game.dll
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\ref\Random Clicker Game.dll
+D:\Inne\repos2\Random Clicker Game\bin\Debug\net5.0-windows\Random Clicker Game.pdb
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.dll
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\ref\Random Clicker Game.dll
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.pdb
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.genruntimeconfig.cache
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random_Clicker_Game.Resources.resources
+D:\Inne\repos2\Random Clicker Game\obj\Debug\net5.0-windows\Random Clicker Game.vbproj.AssemblyReference.cache
